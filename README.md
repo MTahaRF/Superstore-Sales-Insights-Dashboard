@@ -18,7 +18,7 @@ This project presents an interactive Power BI dashboard built using the *Sample 
 
 ## 📁 Dataset
 
-The dataset used is the [Superstore.csv]([https://www.kaggle.com/datasets/vivek468/superstore-dataset-final])
+The dataset used is the [Superstore.csv](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
 
 ## 💡 Tools Used
 
