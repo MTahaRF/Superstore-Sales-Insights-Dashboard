@@ -28,5 +28,5 @@ The dataset used is the [Superstore.csv]([https://community.tableau.com/s/sample
 
 ## 🖼️ Screenshot
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.jpg)
 
